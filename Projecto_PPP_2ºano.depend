@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495670812 source:d:\universidade\2ºsemestre\ppp\projecto_ppp_2ºano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1495672227 d:\universidade\2ºsemestre\ppp\projecto_ppp_2ºano\header.h
+	<stdio.h>
+	<stdlib.h>
+
